@@ -171,8 +171,8 @@
         app:layout_constraintTop_toBottomOf="@+id/editDate" />
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
-        android:layout_width="match_parent"
-        android:layout_height="79dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
         android:paddingLeft="2dp"
         android:paddingRight="2dp"
         app:layout_constraintBottom_toBottomOf="parent"
